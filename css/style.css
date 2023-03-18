@@ -21,6 +21,10 @@ h2 {
     margin: 0;
 }
 
+.collor-footer-full {
+    background-color: #1E1823;
+}
+
 .icon-svg {
     stroke: #ffffff;
 }
@@ -33,11 +37,11 @@ h2 {
 body {
     margin: 0px;
     padding: 0px;
-    /* background-color: #1E1823; */
+
 }
 
 .footer-section {
-    background-color: #1E1823;
+    /* background-color: #1E1823; */
 }
 
 .footer {
@@ -97,11 +101,9 @@ body {
 
 /* soc-list */
 .soc-list {
-    /* width: 58px; */
     display: flex;
     gap: 24px;
-    /* text-align: center; */
-    /* justify-content: space-between; */
+
 }
 
 /*  */
@@ -132,7 +134,7 @@ body {
 @media screen and (min-width: 375px) {
 
     .footer-section {
-        background-color: #1E1823;
+        /* background-color: #1E1823; */
         margin-left: auto;
         margin-right: auto;
         width: 375px;
@@ -141,7 +143,6 @@ body {
 
 @media screen and (min-width: 768px) {
     .footer-section {
-        /* background-color: #1E1823; */
         margin-left: auto;
         margin-right: auto;
         width: 768px;
